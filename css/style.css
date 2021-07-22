@@ -317,7 +317,7 @@ body {
   z-index: -1;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 1039px) {
   .services .servieces-content .image {
     display: none;
   }
